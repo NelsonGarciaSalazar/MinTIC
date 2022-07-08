@@ -1,0 +1,14 @@
+
+k
+java:S1104	"UMake almacenes a static final constant or non-public and provide accessors if needed.(Òς 
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(·ΐ²Α
+
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Λ€σ8Έχώ0
+
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.( ÿÿ8Έχώ0
+B
+java:S1068"'Remove this unused "nit" private field.(τ€΅τÿÿÿÿÿ
+E
+java:S1068"*Remove this unused "nombre" private field.(µÿο„ωÿÿÿÿ
+H
+java:S1068"-Remove this unused "direccion" private field.(“’’φÿÿÿÿÿ
